@@ -1,2 +1,2 @@
 # Hammd-cake Template
-#template using HTML & CSS
+Template using HTML & CSS
