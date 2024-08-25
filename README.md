@@ -19,10 +19,3 @@ Check out the live demo of HammadCakeTemplate [here](https://hammad36.github.io/
 
 If you appreciate the work that has gone into creating this template, consider giving it a ⭐️ on GitHub. Your support is greatly appreciated!
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-This README provides a clear and professional overview of your project while encouraging others to support it.
